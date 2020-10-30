@@ -1,0 +1,38 @@
+body{
+    font-family: Monserrat, "Helvetica Neue", Arial, sans-serif;
+}
+.fa {
+    padding: 5px;
+}
+.navbar {
+    background-color: #522D80;
+    font-size: 14px;
+}
+.home {
+    background: url(../img/chalk.jpg) no-repeat;
+     min-height: 300px;
+     background-size: cover;
+     background-attachment: fixed;
+     color: #fff;
+}
+
+.home img {
+    max-height: 500px;
+    width: 100%;
+}
+.title{
+    font-size: 49px;
+    font-weight: 700;
+    padding-top: 30px;
+}
+.home h4 {
+    font-weight: 400;
+}
+.card {
+    width: 290px;
+}
+.card img {
+    vertical-align: middle;
+    border-style: none;
+    height: 160px;
+}
