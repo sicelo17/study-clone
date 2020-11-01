@@ -1,5 +1,11 @@
 body{
-    font-family: Monserrat, "Helvetica Neue", Arial, sans-serif;
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+}
+.nav-link {
+    font-size: 10px;
+}
+.cart {
+    font-size: 15px;
 }
 .fa {
     padding: 5px;
@@ -29,10 +35,42 @@ body{
     font-weight: 400;
 }
 .card {
-    width: 290px;
+    width: 90%;
 }
 .card img {
     vertical-align: middle;
     border-style: none;
     height: 160px;
+}
+#courses h5, h6{
+    font-size: 12.6px;
+}
+#courses p {
+    font-weight: 300;
+    font-size: 20px;
+}
+#courses span {
+    font-size: 12.6px;
+}
+.price {
+    font-size: 25px;
+}
+.addCart {
+    background: #522D80;
+    border: #522D80 1px solid;
+}
+.addCart:hover {
+    background: #311b4d;
+}
+.view {
+    background: transparent;
+    color: #522D80;
+    border: #522D80 1px solid;
+}
+.view:hover {
+    background: white;
+    color: #522d80;
+}
+.page-footer {
+    font-size: 12.6px;
 }
