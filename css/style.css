@@ -74,3 +74,22 @@ body{
 .page-footer {
     font-size: 12.6px;
 }
+.logo {
+    border-radius: 1px;
+    height: 65px;
+    width: 170px;
+}
+.form {
+    width: 40%;
+    height: 60%;
+}
+.form .btn {
+    color: #fff;
+    background-color: #522D80;
+    border-radius: 40px;
+}
+.form-control {
+    border-radius: 40px;
+    font-size: 12px;
+    border: 1px solid #522D80;
+}
